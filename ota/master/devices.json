@@ -19,7 +19,28 @@
     "PANTECH/cm_ef61k": "pantech/ef60",
     "PANTECH/cm_ef62l": "pantech/ef60",
 
-    "pantech/900": "pantech/ef60"
+    "pantech/900": "pantech/ef60",
+    
+    "pantech/ef59": "pantech/ef59",
+    "pantech/ef59s": "pantech/ef59",
+    "pantech/ef59k": "pantech/ef59",
+    "pantech/ef59l": "pantech/ef59",
 
+    "pantech/cm_ef59": "pantech/ef59",
+    "pantech/cm_ef59s": "pantech/ef59",
+    "pantech/cm_ef59k": "pantech/ef59",
+    "pantech/cm_ef59l": "pantech/ef59",
+
+    "PANTECH/ef59": "pantech/ef59",
+    "PANTECH/ef59s": "pantech/ef59",
+    "PANTECH/ef59k": "pantech/ef59",
+    "PANTECH/ef59l": "pantech/ef59",
+
+    "PANTECH/cm_ef59": "pantech/ef59",
+    "PANTECH/cm_ef59s": "pantech/ef59",
+    "PANTECH/cm_ef59k": "pantech/ef59",
+    "PANTECH/cm_ef59l": "pantech/ef59",
+
+    "pantech/890": "pantech/ef59"
 
 }
